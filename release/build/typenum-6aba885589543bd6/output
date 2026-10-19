@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\immoh\Downloads\Rust-Crypter-main\Rust-Crypter-main\stub\target\x86_64-pc-windows-msvc\release\build\typenum-6aba885589543bd6\out\consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\immoh\Downloads\Rust-Crypter-main\Rust-Crypter-main\stub\target\x86_64-pc-windows-msvc\release\build\typenum-6aba885589543bd6\out\op.rs
